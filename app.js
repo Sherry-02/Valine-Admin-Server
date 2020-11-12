@@ -49,7 +49,7 @@ app.get("/", function (req, res) {
       INFO: process.env.INFO ? process.env.INFO : "",
       favicon: process.env.FAVICON
         ? process.env.FAVICON
-        : "https://cdn.jsdelivr.net/gh/lete114/CDN/Lete_Blog/images/favicon.ico",
+        : "https://cdn.jsdelivr.net/gh/sherry-02/sherry-02.github.io/userImg/zmftl.jpeg",
     });
   }
 });
